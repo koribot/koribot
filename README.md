@@ -18,6 +18,13 @@
           </span>
         </td>
       </tr>
+      <tr>
+        <td>
+          <span style="display: flex;">
+            <a style="text-decoration: none" href='http://wcawasa.pythonanywhere.com/'>🔗</a>
+          </span>
+        </td>
+      </tr>
       <!-- Add more rows as needed -->
     </tbody>
   </table>
