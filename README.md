@@ -26,12 +26,12 @@
         </td>
         <td>
           <span>
-              <a style="text-decoration: none;" href="https://ebextractor-v1.vercel.app/api/extract/using_keyword?q=shoes">🔗</a>
+              <a style="text-decoration: none;" target="_blank" href="https://ebextractor-v1.vercel.app/api/extract/using_keyword?q=shoes">🔗</a>
           </span>
         </td>
         <td>
           <span>
-              <a style="text-decoration: none;" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
+              <a style="text-decoration: none;" target="_blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
           </span>
         </td>
       </tr>
