@@ -22,12 +22,12 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></p>
+            <p>An API to parse eBay search result outerHTML</p>
           </span>
         </td>
-        <td>
+         <td>
           <span style="display: flex;">
-            <p>An API to parse eBay search result outerHTML</p>
+            <p><img style="width: "100px";" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></p>
           </span>
         </td>
         <td>
