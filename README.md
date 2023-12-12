@@ -21,9 +21,18 @@
         <td>
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
-           <pre>
-             
-           </pre>
+            <pre>
+               -----------------------------------------
+               ### 2 endpoints ###
+               ➡️ /api/extract - POST
+               ➡️ /api/extract/using_keyword?q="" - GET
+               -----------------------------------------
+            </pre>             
+          </span>
+        </td>
+        <td>
+          <span>
+              <a style="text-decoration: none;">🔗</a>
           </span>
         </td>
         <td>
