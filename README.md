@@ -26,7 +26,7 @@
           </span>
         </td>
          <td>
-          <span style="display: flex;">
+          <span style="display: flex; justify-content:center; align-items:center;">
             <p><img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></p>
           </span>
         </td>
