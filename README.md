@@ -22,16 +22,27 @@
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
 <pre>
------------------------------------------
+
 ### 2 endpoints 
 
 ➡️ /api/extract - POST
-➡️ /api/extract/using_keyword?q="" - GET
+➡️ /api/extract/using_keyword - GET
 -----------------------------------------
 
-/api/extract 
-## Post Request
+## /api/extract 
 
+Request sample
+
+{
+  "htmlContent": "<html............(this should be in string form)",
+  "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1311&_nkw=shoes&_sacat=0&LH_TitleDesc=0&_odkw=rinnai&_osacat=0"
+}
+
+
+## /api/extract/using_keyword
+
+Request sample
+/api/extract/using_keyword?q="shoes"
 
 </pre>             
           </span>
