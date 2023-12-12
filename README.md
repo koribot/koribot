@@ -19,12 +19,20 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>An api to parse ebay search result outerHTML - Price insights, keywords, and you can download the result</p>
-            <p>➡️ </p>
+            <p>An api to parse ebay search result outerHTML</p>
+            <p>➡️  result = {
+                  'exact_url': "url of your search result",
+                  'applied_filters': [] -> A list of filters used on your search e.g Sold Listings, Condition,
+                  'categories': [] -> A list of categories that your search is present in,
+                  'listings': [{image_url:'', title:'', price: '', link:''}] -> A list of listings extracted from the search result 240 max per request,
+                  'analysis_result': {keyword:"what keyword did you used in your search", other_word_counts:[{Counter: 5, Word: "shoes"}]} -> a list of ,
+                  'notifications': notifications
+              }
+             </p>
           </span>
         </td>
         <td>
-          <span style="display: flex;">
+          <span style="display: flex; text-align: center;">
             <a href='http://wcawasa.pythonanywhere.com/'style="text-decoration: none;" >🔗</a>
           </span>
         </td>
