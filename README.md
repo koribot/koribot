@@ -20,7 +20,7 @@
         <td>
           <span style="display: flex;">
             <p>An api to parse ebay search result outerHTML</p>
-            <p>➡️  result = {
+            <pre>➡️  result = {
                   'exact_url': "url of your search result",
                   'applied_filters': [] -> A list of filters used on your search e.g Sold Listings, Condition,
                   'categories': [] -> A list of categories that your search is present in,
@@ -28,7 +28,7 @@
                   'analysis_result': {keyword:"what keyword did you used in your search", other_word_counts:[{Counter: 5, Word: "shoes"}]} -> a list of ,
                   'notifications': notifications
               }
-             </p>
+             </pre>
           </span>
         </td>
         <td>
