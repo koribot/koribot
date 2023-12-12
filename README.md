@@ -6,6 +6,7 @@
     <thead>
       <tr>
         <th>Project name</th>
+        <th style="width: "100px";">Project Description</th>
         <th>Project link</th>
       </tr>
     </thead>
@@ -14,12 +15,11 @@
         <td>
           <span style="display: flex;">
             eBex API
-            <a href='http://wcawasa.pythonanywhere.com/'>🔗</a>
           </span>
         </td>
-          <td>
+        <td>
           <span style="display: flex;">
-            <a style="text-decoration: none;" href='http://wcawasa.pythonanywhere.com/'>🔗</a>
+            <a href='http://wcawasa.pythonanywhere.com/'style="text-decoration: none;" >🔗</a>
           </span>
         </td>
       </tr>
