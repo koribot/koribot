@@ -21,7 +21,7 @@
         <td>
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
-            <pre>
+<pre>
 -----------------------------------------
 ### 2 endpoints 
 
@@ -33,7 +33,7 @@
 ## Post Request
 
 
-            </pre>             
+</pre>             
           </span>
         </td>
         <td>
