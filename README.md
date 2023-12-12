@@ -20,22 +20,25 @@
         <td>
           <span style="display: flex;">
             <p>An api to parse ebay search result outerHTML</p>
-            ```json
             <pre>➡️  return structure
                   {
-                  'exact_url': "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=shoes&_sacat=0",
-                  'applied_filters': [] -> A list of filters used on your search e.g Sold Listings, Condition,
-                  'categories': [] -> A list of categories that your search is present in,
-                  'listings': [{image_url:'', title:'', price: '', link:''}] 
-                  'analysis_result': {'keyword':"what keyword did you used in your search",
-                                      'other_word_counts':[{Counter: 10, Word: "shoes"}],
-                                      'highest_price':"",
-                                      'average_price: "",
-                                      'middle_price': "",
-                                      'lowest_price': "",
-                                      'prices_counter': "",
-                                     } 
-                  }
+                      'exact_url': "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=shoes&_sacat=0",
+    
+                      'applied_filters': [] -> A list of filters used on your search e.g Sold Listings, Condition,
+    
+                      'categories': [] -> A list of categories that your search is present in,
+    
+                      'listings': [{image_url:'', title:'', price: '', link:''}] 
+    
+                      'analysis_result': {'keyword':"what keyword did you used in your search",
+                                          'other_word_counts':[{Counter: 10, Word: "shoes"}],
+                                          'highest_price':"",
+                                          'average_price: "",
+                                          'middle_price': "",
+                                          'lowest_price': "",
+                                          'prices_counter': "",
+                                         } 
+                   }
              </pre>
           </span>
         </td>
