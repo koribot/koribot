@@ -6,7 +6,7 @@
     <thead>
       <tr>
         <th>Project name</th>
-        <th style="width: "100px";">Project Description</th>
+        <th style="width: 100px;">Project Description</th>
         <th>Project link</th>
       </tr>
     </thead>
@@ -19,7 +19,7 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>An api to parse ebay search result outerHTML</p>
+            <p>An API to parse eBay search result `outerHTML`</p>
             <pre>➡️  return structure
                   {
                       'exact_url': "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=shoes&_sacat=0",
@@ -34,7 +34,7 @@
                                           'keyword':"what keyword did you used in your search",
                                           'other_word_counts':[{Counter: 10, Word: "shoes"}],
                                           'highest_price':"",
-                                          'average_price: "",
+                                          'average_price': "",
                                           'middle_price': "",
                                           'lowest_price': "",
                                           'prices_counter': "",
@@ -45,7 +45,7 @@
         </td>
         <td>
           <span style="display: flex; text-align: center;">
-            <a href='http://wcawasa.pythonanywhere.com/'style="text-decoration: none;" >🔗</a>
+            <a href='http://wcawasa.pythonanywhere.com/' style="text-decoration: none;">🔗</a>
           </span>
         </td>
       </tr>
