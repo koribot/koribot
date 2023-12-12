@@ -19,6 +19,12 @@
         </td>
         <td>
           <span style="display: flex;">
+            <p>An api to parse ebay search result outerHTML - Price insights, keywords, and you can download the result</p>
+            <p>➡️ </p>
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
             <a href='http://wcawasa.pythonanywhere.com/'style="text-decoration: none;" >🔗</a>
           </span>
         </td>
