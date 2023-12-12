@@ -22,11 +22,17 @@
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
             <pre>
-               -----------------------------------------
-               ### 2 endpoints ###
-               ➡️ /api/extract - POST
-               ➡️ /api/extract/using_keyword?q="" - GET
-               -----------------------------------------
+-----------------------------------------
+### 2 endpoints 
+
+➡️ /api/extract - POST
+➡️ /api/extract/using_keyword?q="" - GET
+-----------------------------------------
+
+/api/extract 
+## Post Request
+
+
             </pre>             
           </span>
         </td>
