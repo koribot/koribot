@@ -17,11 +17,9 @@
             <a href='http://wcawasa.pythonanywhere.com/'>🔗</a>
           </span>
         </td>
-      </tr>
-      <tr>
-        <td>
+          <td>
           <span style="display: flex;">
-            <a style="text-decoration: none" href='http://wcawasa.pythonanywhere.com/'>🔗</a>
+            <a style="text-decoration: none;" href='http://wcawasa.pythonanywhere.com/'>🔗</a>
           </span>
         </td>
       </tr>
