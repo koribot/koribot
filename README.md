@@ -19,7 +19,7 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>An API to parse eBay search result `outerHTML`</p>
+            <p>An API to parse eBay search result outerHTML</p>
            
           </span>
         </td>
