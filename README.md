@@ -22,7 +22,7 @@
         <td>
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
-<pre>
+<!-- <pre>
 
 ### 2 endpoints 
 
@@ -45,7 +45,7 @@ Request sample
 Request sample
 /api/extract/using_keyword?q="shoes"
 
-</pre>             
+</pre>              -->
           </span>
         </td>
         <td>
