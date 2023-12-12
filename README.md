@@ -8,6 +8,7 @@
       <tr>
         <th>Project name</th>
         <th style="width: 100px;">Project Description</th>
+        <th>Tech Used</th>
         <th>Project link</th>
         <th>Repo</th>
       </tr>
@@ -17,6 +18,11 @@
         <td>
           <span style="display: flex;">
             eBex API
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
+            <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/></p>
           </span>
         </td>
         <td>
