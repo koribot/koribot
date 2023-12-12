@@ -27,7 +27,7 @@
           </span>
         </td>
         <td>
-          <span style="display: flex;">
+          <span>
               <a style="text-decoration: none;">🔗</a>
           </span>
         </td>
