@@ -28,9 +28,10 @@
     
                       'categories': [] -> A list of categories that your search is present in,
     
-                      'listings': [{image_url:'', title:'', price: '', link:''}] 
+                      'listings': [{image_url:'', title:'', price: '', link:''}], 
     
-                      'analysis_result': {'keyword':"what keyword did you used in your search",
+                      'analysis_result': {
+                                          'keyword':"what keyword did you used in your search",
                                           'other_word_counts':[{Counter: 10, Word: "shoes"}],
                                           'highest_price':"",
                                           'average_price: "",
