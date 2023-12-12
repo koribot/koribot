@@ -8,6 +8,7 @@
         <th>Project name</th>
         <th style="width: 100px;">Project Description</th>
         <th>Project link</th>
+        <th>Repo</th>
       </tr>
     </thead>
     <tbody>
@@ -21,8 +22,13 @@
           <span style="display: flex;">
             <p>An API to parse eBay search result outerHTML</p>
            <pre>
-             Hello
+             
            </pre>
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
+              <a style="text-decoration: none;">🔗</a>
           </span>
         </td>
       </tr>
