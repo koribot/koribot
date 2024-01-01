@@ -47,7 +47,7 @@
 - Develop a simple javascript framework/library - 🚧
 - Create a tool that will solve a particular problem
 - Uderstand memory
-- Be proficient at JavaScript, Python, and C
+- Learn and be proficient at JavaScript, Python, and C
 
 
 
