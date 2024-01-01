@@ -44,7 +44,7 @@
 
 
 ## Goals
-- Develop a simple javascript framework/library - 🚧
+- Develop a simple javascript framework/library - 🚧 Link here -> [Link Text](https://github.com/koribot/koribotJS)
 - Create a tool that will solve a particular problem
 - Uderstand memory
 - Learn and be proficient at JavaScript, Python, and C
