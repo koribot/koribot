@@ -41,3 +41,15 @@
     </tbody>
   </table>
 </div>
+
+
+## Goals
+- Develop a simple javascript framework/library - 🚧
+- Create a tool that will solve a particular problem
+- Uderstand memory
+- Be proficient at JavaScript, Python, and C
+
+
+
+## Contacts
+- 📧 w.cawasa@gmail.com
