@@ -37,6 +37,30 @@
               <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
         </td>
       </tr>
+
+      //koribotJs
+       <td>
+          <span style="display: flex;">
+           koribotJS
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
+            <p>An UN-OPTIMIZED MESSY Component Based Javascript front-end framework/library</p>
+          </span>
+        </td>
+         <td>
+          <span style="display: flex; justify-content:center; align-items:center;">
+             koribotJS 🔥
+          </span>
+        </td>
+        <td>
+              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/koribotJS">🔗</a>
+        </td>
+        <td>
+              🚧
+        </td>
+      </tr>
       <!-- Add more rows as needed -->
     </tbody>
   </table>
