@@ -37,8 +37,6 @@
               <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
         </td>
       </tr>
-
-      //koribotJs
        <td>
           <span style="display: flex;">
            koribotJS
