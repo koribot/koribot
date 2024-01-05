@@ -53,10 +53,10 @@
           </span>
         </td>
         <td>
-              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/koribotJS">🔗</a>
+              🚧
         </td>
         <td>
-              🚧
+              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/koribotJS">🔗</a>
         </td>
       </tr>
       <!-- Add more rows as needed -->
