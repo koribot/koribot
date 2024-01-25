@@ -77,5 +77,5 @@
 - 📧 w.cawasa@gmail.com
 
 
-## Portfolio
-- [Walid Portfolio](https://walid-portfolio-ecru.vercel.app/)
+
+## [My Portfolio](https://walid-portfolio-ecru.vercel.app/)
