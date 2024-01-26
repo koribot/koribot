@@ -10,7 +10,7 @@
 
 <div style="background-color: green; padding: 10px; color: #fff; text-align: center;">
   <input/>
-  <h1>Personal Projects</h1>
+  <h1>Projects</h1>
   <table>
     <thead>
       <tr>
