@@ -77,7 +77,7 @@
 <div style='display:flex;'>  
   <img style="object-fit:contain; width: 50px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
   <img style="object-fit:contain; width: 50px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png'/>
   <img style="object-fit:contain; width: 50px;" src='https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp'/>
   <img style="object-fit:contain; width: 50px;" src='https://cdn-icons-png.flaticon.com/512/732/732212.png'/>
   <img style="object-fit:contain; width: 50px;" src='https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png'/>
