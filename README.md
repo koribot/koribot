@@ -74,7 +74,7 @@
 
 
 ## Tech Stacks
-<img style="width: 100px;" src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2p6saIIERnRHX7mKQmGo0U&ust=1706351459874000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjftdbs-oMDFQAAAAAdAAAAABAD'/>
+<img style="width: 100px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
 <img src=''/>
 <img src=''/>
 <img src=''/>
