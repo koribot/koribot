@@ -74,8 +74,8 @@
 
 
 ## Tech Stacks
-<img style="width: 100px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
-<img src=''/>
+<img style="object-fit:contain; width: 150px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
+<img style="object-fit:contain; width: 150px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
 <img src=''/>
 <img src=''/>
 <img src=''/>
