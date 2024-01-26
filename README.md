@@ -73,6 +73,15 @@
 </div>
 
 
+## Tech Stacks
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw2p6saIIERnRHX7mKQmGo0U&ust=1706351459874000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjftdbs-oMDFQAAAAAdAAAAABAD'/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+<img src=''/>
+
+
+
 ## Goals
 - Develop a simple javascript framework/library - 🚧 [Repo Link](https://github.com/koribot/koribotJS)
 - Create a tool that will solve a particular problem
