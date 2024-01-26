@@ -74,11 +74,13 @@
 
 
 ## Tech Stacks
-<img style="object-fit:contain; width: 150px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
-<img style="object-fit:contain; width: 150px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
-<img src=''/>
-<img src=''/>
-<img src=''/>
+<div style='display:flex;'>  
+  <img style="object-fit:contain; width: 150px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
+  <img style="object-fit:contain; width: 150px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
+  <img style="object-fit:contain; width: 150px;" src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fc%2Fcss-logo%2F&psig=AOvVaw11jx_W3NpLbTwMO_sVwDo-&ust=1706352027921000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDQouXu-oMDFQAAAAAdAAAAABAD'/>
+  <img src=''/>
+  <img src=''/>
+</div>
 
 
 
