@@ -75,13 +75,13 @@
 
 ## Tech Stacks
 <div style='display:flex;'>  
-  <img style="object-fit:contain; width: 100px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
-  <img style="object-fit:contain; width: 100px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
-  <img style="object-fit:contain; width: 100px;" src='https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png'/>
-  <img style="object-fit:contain; width: 100px;" src='https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp'/>
-  <img style="object-fit:contain; width: 100px;" src='https://cdn-icons-png.flaticon.com/512/732/732212.png'/>
-  <img style="object-fit:contain; width: 100px;" src='https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png'/>
-  <img style="object-fit:contain; width: 100px;" src='[https://cdn-icons-png.flaticon.com/512/732/732212.png](https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg)'/>
+  <img style="object-fit:contain; width: 50px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp'/>
+  <img style="object-fit:contain; width: 50px;" src='https://cdn-icons-png.flaticon.com/512/732/732212.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png'/>
+  <img style="object-fit:contain; width: 50px;" src='https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg'/>
 </div>
 
 
