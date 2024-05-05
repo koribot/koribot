@@ -39,7 +39,7 @@
           </span>
         </td>
         <td>
-              <a style="text-decoration: none;" target="blank" href="https://ebextractor-v1.vercel.app/api/extract/using_keyword?q=shoes">🔗</a>
+              <a style="text-decoration: none;" target="blank" href="https://wcawasa.pythonanywhere.com">🔗</a>
         </td>
         <td>
               <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
