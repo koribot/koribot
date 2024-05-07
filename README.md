@@ -30,7 +30,7 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>An API to parse eBay search result outerHTML</p>
+            <p>An API to parse eBay search result and provide price & keyword analytics -> endpoint /api/extract/using_keyword?q=slippers</p>
           </span>
         </td>
          <td>
