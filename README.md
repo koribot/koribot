@@ -25,6 +25,16 @@
       <tr>
         <td>
           <span style="display: flex;">
+            eBextractor
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
+            <p>eBay Price Insights, ebay Purchase Sold History, Offer History - High, Low, Avg, Mid prices + keyword & price Counters</p>
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
             eBex API
           </span>
         </td>
