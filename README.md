@@ -30,9 +30,21 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>eBay Price Insights, ebay Purchase Sold History, Offer History - High, Low, Avg, Mid prices + keyword & price Counters</p>
+            <p>eBay Price Insights, ebay Purchase Sold History, Offer History - High, Low, Avg, Mid prices + keyword & price Counter</p>
           </span>
         </td>
+         <td>
+          <span style="display: flex; justify-content:center; align-items:center;">
+            <img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+          </span>
+        </td>
+        <td>
+              <a style="text-decoration: none;" target="blank" href="https://chromewebstore.google.com/detail/ebextractor-ebay-sold-his/ikfpolbfdnihjnadfodochmagdagpbik">🔗</a>
+        </td>
+        <td>
+              <a style="text-decoration: none;" target="blank" href="#">Private</a>
+        </td>
+      </tr>
         <td>
           <span style="display: flex;">
             eBex API
