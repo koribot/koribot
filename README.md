@@ -99,7 +99,7 @@
         </td>
         <td>
           <span style="display: flex;">
-            <p>An extension that lets you block websitesy</p>
+            <p>An extension that lets you block websites - pure link, url pattern, regex pattern</p>
           </span>
         </td>
          <td>
