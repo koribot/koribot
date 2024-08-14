@@ -45,6 +45,7 @@
               <a style="text-decoration: none;" target="blank" href="#">Private</a>
         </td>
       </tr>
+      <tr>
         <td>
           <span style="display: flex;">
             eBex API
@@ -67,6 +68,7 @@
               <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
         </td>
       </tr>
+      <tr>
        <td>
           <span style="display: flex;">
            koribotJS
@@ -87,6 +89,29 @@
         </td>
         <td>
               <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/koribotJS">🔗</a>
+        </td>
+      </tr>
+      <tr>
+       <td>
+          <span style="display: flex;">
+           Wblocker
+          </span>
+        </td>
+        <td>
+          <span style="display: flex;">
+            <p>An extension that lets you block websitesy</p>
+          </span>
+        </td>
+         <td>
+          <span style="display: flex; justify-content:center; align-items:center;">
+             Javascript, TypeScript, Webpack, Websocket, Tailwind
+          </span>
+        </td>
+        <td>
+              🚧
+        </td>
+        <td>
+              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/WBlocker-Website-blocker">🔗</a>
         </td>
       </tr>
       <!-- Add more rows as needed -->
