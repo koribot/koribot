@@ -22,6 +22,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![openNextjs](https://img.shields.io/badge/-openNextjs-black?style=flat)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=nextdotjs)
 
 ## Goal
 Learn, Build, Make money.
