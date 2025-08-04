@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![openNextjs](https://avatars.githubusercontent.com/u/180226629?s=200&v=4)
+![openNextjs](https://img.shields.io/badge/-openNextjs-black?style=flat)
 
 ## Goal
 Learn, Build, Make money.
