@@ -1,147 +1,29 @@
 # Hello 👋
 
-# ![](https://komarev.com/ghpvc/?username=koribot)
+## [Online-Portfolio](https://walid-portfolio-ecru.vercel.app/)
 
+## Projects
 
-## My PortFolio ➡ [Click to View](https://walid-portfolio-ecru.vercel.app/)
+| Project | Description | Tech Stack | Live | Repo |
+|---------|-------------|------------|------|------|
+| **eBextractor** | eBay price analytics and sold history tracker | JavaScript | [Chrome Store](https://chromewebstore.google.com/detail/ebextractor-ebay-sold-his/ikfpolbfdnihjnadfodochmagdagpbik) | Private |
+| **eBex API** | API for eBay search analytics | Flask/Python | [Demo](https://ebextractor-v1.vercel.app/api/extract/using_keyword?q=shoes) | [GitHub](https://github.com/koribot/ebextractor-api-flask) |
+| **koribotJS** | Trying to understand vDom by building "component-based" framework (shitty implementation) | JavaScript | 🚧 | [GitHub](https://github.com/koribot/koribotJS) |
+| **Wblocker** | Website blocking extension | JS, TS, Webpack | 🚧 | [GitHub](https://github.com/koribot/WBlocker-Website-blocker) |
+| **ebextractor.com** | My hobby website for ebay and amazon sellers and buyers | OpenNextJs, tailwindcss, cloudflare, supabase | [Website](https://www.ebextractor.com/) | [GitHub - Private](#) |
+| **portify.ebextractor.com** | Trying to build Drag & Drop Design/Website Editor - Open Soruce | Nextjs, supabase, tailwindcss | [Website](https://portify.ebextractor.com) | [GitHub](https://github.com/koribot/portify) |
 
+## Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+## Goal
+Learn, Build, Make money.
 
-
-<div style="background-color: green; padding: 10px; color: #fff; text-align: center;">
-  <input/>
-  <h1>Projects</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>Project name</th>
-        <th style="width: 100px;">Project Description</th>
-        <th>Tech Used</th>
-        <th>Project link</th>
-        <th>Repo</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <span style="display: flex;">
-            eBextractor
-          </span>
-        </td>
-        <td>
-          <span style="display: flex;">
-            <p>eBay Price Insights, ebay Purchase Sold History, Offer History - High, Low, Avg, Mid prices + keyword & price Counter</p>
-          </span>
-        </td>
-         <td>
-          <span style="display: flex; justify-content:center; align-items:center;">
-            <img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
-          </span>
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="https://chromewebstore.google.com/detail/ebextractor-ebay-sold-his/ikfpolbfdnihjnadfodochmagdagpbik">🔗</a>
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="#">Private</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <span style="display: flex;">
-            eBex API
-          </span>
-        </td>
-        <td>
-          <span style="display: flex;">
-            <p>An API to parse eBay search result and provide price & keyword analytics -> endpoint /api/extract/using_keyword?q=slippers</p>
-          </span>
-        </td>
-         <td>
-          <span style="display: flex; justify-content:center; align-items:center;">
-            <img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2560px-Flask_logo.svg.png"/>
-          </span>
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="https://ebextractor-v1.vercel.app/api/extract/using_keyword?q=shoes">🔗</a>
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/ebextractor-api-flask">🔗</a>
-        </td>
-      </tr>
-      <tr>
-       <td>
-          <span style="display: flex;">
-           koribotJS
-          </span>
-        </td>
-        <td>
-          <span style="display: flex;">
-            <p>An UN-OPTIMIZED MESSY Component Based Javascript front-end framework/library</p>
-          </span>
-        </td>
-         <td>
-          <span style="display: flex; justify-content:center; align-items:center;">
-             koribotJS 🔥
-          </span>
-        </td>
-        <td>
-              🚧
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/koribotJS">🔗</a>
-        </td>
-      </tr>
-      <tr>
-       <td>
-          <span style="display: flex;">
-           Wblocker
-          </span>
-        </td>
-        <td>
-          <span style="display: flex;">
-            <p>An extension that lets you block websites - pure link, url pattern, regex pattern</p>
-          </span>
-        </td>
-         <td>
-          <span style="display: flex; justify-content:center; align-items:center;">
-             Javascript, TypeScript, Webpack, Websocket, Tailwind
-          </span>
-        </td>
-        <td>
-              🚧
-        </td>
-        <td>
-              <a style="text-decoration: none;" target="blank" href="https://github.com/koribot/WBlocker-Website-blocker">🔗</a>
-        </td>
-      </tr>
-      <!-- Add more rows as needed -->
-    </tbody>
-  </table>
-</div>
-
-
-## Tech Stacks
-<div style='display:flex;'>  
-  <img style="object-fit:contain; width: 50px;" src='https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp'/>
-  <img style="object-fit:contain; width: 50px;" src='https://cdn-icons-png.flaticon.com/512/732/732212.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png'/>
-  <img style="object-fit:contain; width: 50px;" src='https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg'/>
-</div>
-
-
-
-## Goals
-- Develop a simple javascript framework/library - 🚧 [Repo Link](https://github.com/koribot/koribotJS)
-- Create a tool that will solve a particular problem
-- Uderstand memory
-- Learn and be proficient at JavaScript, Python, and C
-
-
-
-## Contacts
-- 📧 w.cawasa@gmail.com
-
-
+## Contact
+📧 w.cawasa@gmail.com
