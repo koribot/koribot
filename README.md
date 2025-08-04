@@ -13,7 +13,7 @@
 | **ebextractor.com** | My hobby website for ebay and amazon sellers and buyers | OpenNextJs, tailwindcss, cloudflare, supabase | [Website](https://www.ebextractor.com/) | [GitHub - Private](#) |
 | **portify.ebextractor.com** | Trying to build Drag & Drop Design/Website Editor - Open Soruce | Nextjs, supabase, tailwindcss | [Website](https://portify.ebextractor.com) | [GitHub](https://github.com/koribot/portify) |
 
-## Tech Stack
+## Technologies I've Explored & Continuously Exploring
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
